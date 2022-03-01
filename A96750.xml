@@ -1,0 +1,1510 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great assises holden in Parnassus by Apollo and his assesours: at which session are arraigned Mercurius Britanicus. Mercurius Aulicus. Mercurius Civicus. The scout. The writer of Diurnalls. The intelligencer. The writer of Occurrences. The writer of Passages. The post. The spye. The writer of weekly Accounts. The Scottish dove, &amp;c.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96750</idno>
+            <idno type="STC">Wing W3160</idno>
+            <idno type="STC">Thomason E269_11</idno>
+            <idno type="STC">ESTC R212378</idno>
+            <idno type="EEBO-CITATION">99871002</idno>
+            <idno type="PROQUEST">99871002</idno>
+            <idno type="VID">123400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123400)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E269[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great assises holden in Parnassus by Apollo and his assesours: at which session are arraigned Mercurius Britanicus. Mercurius Aulicus. Mercurius Civicus. The scout. The writer of Diurnalls. The intelligencer. The writer of Occurrences. The writer of Passages. The post. The spye. The writer of weekly Accounts. The Scottish dove, &amp;c.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[6], 44, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, for Edward Husbands, and are to be sold at his shop in the Middle Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Wither by Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "feb: 11th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123400:1" rendition="simple:additions"/>
+            <p>THE GREAT ASSISES Holden in <hi>PARNASS<g ref="char:V">Ʋ</g>S</hi> BY APOLLO AND HIS ASSESSOVRS: At which Seſſions are Arraigned
+<list>
+                  <item>Mercurius Britanicus.</item>
+                  <item>Mercurius Aulicus.</item>
+                  <item>Mercurius Civicus.</item>
+                  <item>The Scout.</item>
+                  <item>The writer of Diurnalls.</item>
+                  <item>The Intelligencer.</item>
+                  <item>The writer of Occurrences.</item>
+                  <item>The writer of Paſſages.</item>
+                  <item>The Poſt.</item>
+                  <item>The Spye.</item>
+                  <item>The writer of weekly Accounts.</item>
+                  <item>The Scottiſh Dove, &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> for <hi>Edward Husbands,</hi> and are to be ſold at his Shop in the <hi>Middle Temple,</hi> 1645.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:123400:2"/>
+            <pb facs="tcp:123400:2"/>
+            <head>APOLLO.</head>
+            <list>
+               <item>
+                  <hi>The Lord</hi> VERVLAN, <hi>Chancellor of Parnaſſus.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> PHILIP SIDNEY, <hi>High Conſtable of Par.</hi>
+               </item>
+               <item>WILLIAM BVDEVS, <hi>High Treaſurer.</hi>
+               </item>
+               <item>JOHN PICVS, <hi>Earle of</hi> Mirandula, <hi>High Chamberlaine.</hi>
+               </item>
+               <item>JVLIVS CESAR SCALIGER</item>
+               <item>ERASMUS ROTERODAM.</item>
+               <item>JUSTUS LIPSIUS</item>
+               <item>JOHN BARCKLAY</item>
+               <item>JOHN BODINE</item>
+               <item>ADRIAN TVRNEBVS</item>
+               <item>ISAAC CASAVBON</item>
+               <item>JOHN SELDEN</item>
+               <item>HVGO GROTIVS</item>
+               <item>DANIEL HEINSIVS</item>
+               <item>CONRADVS VOSSIVS</item>
+               <item>AUGUSTINE MASCARDUS</item>
+            </list>
+            <list>
+               <head>The Jurours.</head>
+               <item>George Wither</item>
+               <item>Thomas Cary</item>
+               <item>Thomas May</item>
+               <item>William Davenant</item>
+               <item>Joſuah Sylveſter</item>
+               <item>Georges Sandes</item>
+               <item>Michael Drayton</item>
+               <item>Francis Beaumont</item>
+               <item>John Fletcher</item>
+               <item>Thomas Haywood</item>
+               <item>William Shakeſpeere</item>
+               <item>Philip Maſsinger.</item>
+            </list>
+            <list>
+               <head>The Malefactours.</head>
+               <item>Mercurius Britanicus</item>
+               <item>Mercurias Aulicus</item>
+               <item>Mercurius Civicus</item>
+               <item>The Scout</item>
+               <item>The writer of Diurnals</item>
+               <item>The Intelligencer</item>
+               <item>The writer of Occurrences</item>
+               <item>The writer of Paſsages</item>
+               <item>The Poſte</item>
+               <item>The Spye</item>
+               <item>The writer of weekely Accounts</item>
+               <item>The Scottiſh Dove, &amp;c.</item>
+               <pb facs="tcp:123400:3"/>
+               <item>JOSEPH SCALIGER, the Cenſour of man<g ref="char:EOLhyphen"/>ners in <hi>Parnaſſus.</hi>
+               </item>
+               <item>BEN. JOHNSON, Kee<g ref="char:EOLhyphen"/>per of the Trophonian Denne.</item>
+               <item>JOHN TAYLOVR, Cry<g ref="char:EOLhyphen"/>er of the Court.</item>
+               <item>EDMVND SPENCER, Clerk of the Aſſiſes.</item>
+            </list>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:123400:3"/>
+            <head>The PROEME.</head>
+            <l>
+               <seg rend="decorInit">I</seg>Uſt teares of commix'd with ſtreams of guiltleſs blood</l>
+            <l>May ſhew our woes, but not their period;</l>
+            <l>For this Heaven onely can affixe: Why then,</l>
+            <l>Truſt wee to armes or ſtratagems of men?</l>
+            <l>Expecting peace, or any faire accord,</l>
+            <l>From Counſels wiſe, or the victorious Sword;</l>
+            <l>Since Heaven alone theſe evils can conclude,</l>
+            <l>Which Sinne firſt caus'd and on us did obtrude.</l>
+            <l>Could wee eject this cauſe, wee might find Peace:</l>
+            <l>For cauſes failing, then effects ſurceaſe.</l>
+            <l>Wee need demand no counſell from the Starres,</l>
+            <l>To know the iſsue of theſe bloody Warres:</l>
+            <l>No Sibylles bookes or Oracles wee need,</l>
+            <l>To bee inform'd of things that ſhall ſucceed:</l>
+            <l>No Oracle of <hi>Delphos,</hi> but of <hi>Sion,</hi>
+            </l>
+            <l>No booke, but that of God, muſt wee relie on.</l>
+            <pb facs="tcp:123400:4"/>
+            <l>No Starre, but <hi>Jacobs</hi> Starre, can doe the feate,</l>
+            <l>To end our woes, and make our joyes compleate.</l>
+            <l>Could I th' harmmious ſorrowes parallel</l>
+            <l>Of the inceſted mournfull <hi>Philomel:</hi>
+            </l>
+            <l>Or could I imitate that fatall note,</l>
+            <l>Which is effuſed from the ſilver throte</l>
+            <l>Of that faire Bird, y'cleapt <hi>Apollo's</hi> Prieſt,</l>
+            <l>Who clad in feather'd Albe, with his ſoft breſt</l>
+            <l>Divides the ſurface of the cryſtall ſtream,</l>
+            <l>And dying ſings his owne ſad <hi>requiem;</hi>
+            </l>
+            <l>Then might I ſuch ſad Elegies deviſe,</l>
+            <l>As would become our mournfull tragedies.</l>
+            <l>But give mee leave a ſpace for to diſmiſſe</l>
+            <l>
+               <hi>Melpomene,</hi> and bloudy <hi>Nemeſis,</hi>
+            </l>
+            <l>And to elect a ſtyle which may appeare</l>
+            <l>More mild to many, though to ſome ſevere.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:123400:4"/>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">L</seg>Earn'd Scaliger,</hi> the ſecond of the twaine,</l>
+               <l>Second to none in Arts, did late complaine</l>
+               <l>To <hi>wiſe Apollo,</hi> of ſome ſtrange abuſes,</l>
+               <l>Committed againſt him and the <hi>Nine Muſes</hi>
+               </l>
+               <l>For <hi>Scaliger</hi> had beene <hi>Grave Cenſour</hi> long,</l>
+               <l>In <hi>Learnings Commonwealth,</hi> and liv'd among</l>
+               <l>The people of <hi>Parnaſſus,</hi> in ſuch fame,</l>
+               <l>That all the world tooke notice of his name:</l>
+            </lg>
+            <lg>
+               <l>Himſelfe hee humbly to his Lord addreſt,</l>
+               <l>And in the theſe termes, his inward thoughts expreſt.</l>
+               <l>(<hi>Dread Prince</hi>) to whoſe benevolous aſpect</l>
+               <l>Wee owe our Arts, and Hearts, with all reſpect</l>
+               <l>Which may bee due unto a Soveraigne Lord,</l>
+               <l>Who rules by Love, and Law, not by the Sword,</l>
+               <l>I, whom your <hi>Majeſty</hi> daign'd to create</l>
+               <l>
+                  <hi>Cenſour of manners,</hi> in the <hi>Learned State,</hi>
+               </l>
+               <l>Obliged by the dutie of my place,</l>
+               <l>Humbly preſume to importune your Grace,</l>
+               <l>Unto my votes to adde your royall will,</l>
+               <l>For a redreſſe of ſome abuſes ill.</l>
+               <pb n="2" facs="tcp:123400:5"/>
+               <l>Needs muſt wee thoſe advantages confeſſe,</l>
+               <l>Which wee reape from the literary Preſſe,</l>
+               <l>A priviledge which our forefathers wanted,</l>
+               <l>Although to us Heaven it benignely granted:</l>
+               <l>This engine of the <hi>Muſes</hi> doth diſperſe</l>
+               <l>Arts beſt achievements, both in Proſe and Verſe:</l>
+               <l>It vents with eaſe, labours of learned braines,</l>
+               <l>And doth the hand quit from a world of paines:</l>
+               <l>Thoſe <hi>Wonders,</hi> of which elder ages boaſt,</l>
+               <l>Had almoſt all forgotten been, and loſt,</l>
+               <l>If this <hi>Eighth Wonder</hi> had not been contriv'd,</l>
+               <l>Whereby the other ſeven have been reviv'd.</l>
+               <l>
+                  <hi>Your Grace</hi> well knowes (I need not to relate)</l>
+               <l>How <hi>Typographie</hi> doth concerne your ſtate,</l>
+               <l>Which ſome pernicious heads have ſo abus'd,</l>
+               <l>That many with it never had been us'd:</l>
+               <l>This inſtrument of Art, is now poſſeſt</l>
+               <l>By ſome, who have in Art no intereſt</l>
+               <l>For it is now imploy'd by Paper-waſters,</l>
+               <l>By mercenary ſoules, and Poëtaſters,</l>
+               <l>Who weekly utter, ſlanders, libells, lies,</l>
+               <l>Under the name of ſpecious novelties:</l>
+               <l>Thus <hi>Capaine Raſhingham's</hi> undone, and loſt,</l>
+               <l>For theſe his trade and cuſtome have engroſt:</l>
+               <pb n="3" facs="tcp:123400:5"/>
+               <l>And Hee, (for to maintaine an honeſt port)</l>
+               <l>Is forc'd t'accept an office in your Court;</l>
+               <l>Hee in your Graces kitchin plucks the Widgeons,</l>
+               <l>Geeſe, Dotterells, and Duckes, and all tame Pidgeons,</l>
+               <l>And for his labour hee their plums retaines,</l>
+               <l>Wages, that ſute his perſon, and his paines;</l>
+               <l>But let not your <hi>High Majeſty</hi> miſtake,</l>
+               <l>And thinke that my complaint is for his ſake:</l>
+               <l>If this abuſe touch'd onely ſuch as hee,</l>
+               <l>It were no grievance, but a remedy:</l>
+               <l>For <hi>Truth,</hi> and <hi>Morall Vertues</hi> injur'd are;</l>
+               <l>The <hi>Muſes,</hi> and the <hi>Graces</hi> beare a ſhare,</l>
+               <l>In theſe notorious wrongs, with all that love</l>
+               <l>
+                  <hi>Parnaſſus,</hi> or the <hi>Heliconian Grove:</hi>
+               </l>
+               <l>Therefore (<hi>Great Prince</hi>) vouchſafe for to apply</l>
+               <l>Your Soveraigne power, and authority,</l>
+               <l>To vindicate your ſubjects, and to curbe</l>
+               <l>Theſe Varlets, that your government diſturbe.</l>
+               <l>Thus ſpake the <hi>Cenſour,</hi> then <hi>Apollo</hi> ſhook</l>
+               <l>His harniſh'd lockes, and with a frowning look,</l>
+               <l>Declar'd his diſcontent; but having paus'd,</l>
+               <l>Hee thus reply'd: <hi>Grave Cenſour</hi> I'm amaz'd,</l>
+               <l>To heare the impudent affronts of theſe</l>
+               <l>That thus contemne our Lawes, and our decrees,</l>
+               <pb n="4" facs="tcp:123400:6"/>
+               <l>But (by this golden Scepter) they ſhall try</l>
+               <l>What 'tis to treſpaſſe on our lenity:</l>
+               <l>If our remiſneſſe hath made them tranſgreſſe,</l>
+               <l>They ſhall perceive that wee can make it leſſe,</l>
+               <l>In their ſharpe puniſhment. Thus <hi>Phoebus</hi> ends,</l>
+               <l>And then Hee for <hi>Torquato Taſſo</hi> ſends;</l>
+               <l>Under whoſe charge ſome Companies were liſted</l>
+               <l>Of that ſtout Gend'army, which conſiſted</l>
+               <l>Of Heroick Poets, whoſe high valour was,</l>
+               <l>No meane defenſe, but a magnifick grace</l>
+               <l>Unto the Sacred Hill: this Regiment,</l>
+               <l>On ſummons ſhort, was ever ready bent</l>
+               <l>To execute <hi>Apollo's</hi> juſt commands,</l>
+               <l>With hearts couragious, and with armed hands.</l>
+               <l>Stout <hi>Taſſo</hi> did in ſturdy buffe appeare,</l>
+               <l>And after reverence done, deſir'd to heare</l>
+               <l>His Graces pleaſure; who ſoone gave him orders,</l>
+               <l>With all his Cavalry, to ſcoure the borders</l>
+               <l>Of high <hi>Parnaſſus,</hi> and low <hi>Helicon,</hi>
+               </l>
+               <l>And to bring in alive, or dead, each one</l>
+               <l>That had diſcovered been, or to defile</l>
+               <l>The Preſſe with Pamphlets ſcarrilous, and vile,</l>
+               <l>Or to have traduc'd with malignant ſpirits,</l>
+               <l>Perſons of honorable worth, and merits.</l>
+               <pb n="5" facs="tcp:123400:6"/>
+               <l>
+                  <hi>Taſſo</hi> departs with theſe inſtructions,</l>
+               <l>And muſter'd up his witty <hi>Myrmidons:</hi>
+               </l>
+               <l>The trumpet to the ſtirrop gives a call:</l>
+               <l>They buſtle to their armes, and mounted all,</l>
+               <l>Haſte to their Rendezvous without delay,</l>
+               <l>And put in ranke, and file, they march away:</l>
+               <l>For <hi>Taſſo</hi> no advantage did decline,</l>
+               <l>To proſecute the better his deſigne;</l>
+               <l>Hee into ſquadrons three his Troops diſſects,</l>
+               <l>And unto ſeverall quarters them directs,</l>
+               <l>That traverſing the countrey round about,</l>
+               <l>They might the ſooner find theſe foxes out;</l>
+               <l>In each ſuſpicious angle <hi>Taſſo</hi> ſeekes,</l>
+               <l>And in this inquiſition ſpent ſome weekes:</l>
+               <l>Nor did his other parties with neglect</l>
+               <l>Performe what they injoyn'd were to effect;</l>
+               <l>The limits of <hi>Parnaſſus</hi> they ſurround,</l>
+               <l>And <hi>Helicon,</hi> with verdant Laurells crown'd:</l>
+               <l>Mount <hi>Pindus,</hi> and thoſe valleys ever greene</l>
+               <l>Where pale <hi>Pyrene,</hi> and pure <hi>Hippecrene</hi>
+               </l>
+               <l>In liquid cryſtall riſe, they ſearch'd throughout;</l>
+               <l>Nor was the Vale of <hi>Tempe</hi> left unſought:</l>
+               <l>Nor did their labours miſſe ſucceſſe deſir'd:</l>
+               <l>For they, before a moneth was full expir'd,</l>
+               <pb n="6" facs="tcp:123400:7"/>
+               <l>Had clear'd the coaſts, and many pris'ners gain'd;</l>
+               <l>Which malefactors they in chaines detain'd,</l>
+               <l>And them convey'd unto <hi>Apolloes</hi> Court,</l>
+               <l>Who welcom'd <hi>Taſſo</hi> in moſt gratious ſort:</l>
+               <l>And for his faithfull ſervice, him hee made</l>
+               <l>Lieutenant General of that proud Brigade</l>
+               <l>Of the Italian Poets: This reward</l>
+               <l>Made elder <hi>Dame,</hi> and <hi>Petrarch</hi> to regard</l>
+               <l>His dignitie with ill affected eyes:</l>
+               <l>And <hi>Arioſto</hi> diſcontent likewiſe:</l>
+               <l>But <hi>Phoebus</hi> did brave <hi>Taſſo's</hi> merit weigh</l>
+               <l>By reaſon, but in ſcales of paſſion they;</l>
+               <l>And when hee did perceive that they did fret,</l>
+               <l>To ſee themſelves behind their Junior ſet,</l>
+               <l>Hee them aſſur'd they muſt expect t'inherit</l>
+               <l>
+                  <hi>Parnaſſus</hi> honours not by time, but merit.</l>
+               <l>But when <hi>Apollo</hi> with his radiant looke</l>
+               <l>The Prisners had into amazement ſtrooke,</l>
+               <l>Hee cauſ'd thoſe guiltie ſoules to bee convey'd</l>
+               <l>To the <hi>Trophonian denne,</hi> there to bee laid</l>
+               <l>In Irons cold, untill they ſhould bee brought</l>
+               <l>To tryall for thoſe miſchiefs they had wrought.</l>
+               <l>
+                  <hi>Apollo</hi> then a ſolemne ſummons ſent</l>
+               <l>To all thoſe honour'd Peers that did frequent</l>
+               <pb n="7" facs="tcp:123400:7"/>
+               <l>
+                  <hi>The Learned Hill,</hi> and ſtrictly them injoyn'd,</l>
+               <l>Him to attend, upon a day aſſign'd:</l>
+               <l>For in a full <hi>Aſsiſe</hi> hee did intend</l>
+               <l>The crimes of theſe delinquents to perpend:</l>
+               <l>His loyall Nobles fail'd not, to reſort</l>
+               <l>(Without delay) unto their Soveraignes Court,</l>
+               <l>And on the day, which was for judgement ſet,</l>
+               <l>They all in the Praetorian hall were met:</l>
+               <l>Where <hi>Phoebus,</hi> on his high tribunall ſate,</l>
+               <l>With his <hi>Aſſeſſours,</hi> in triumphant ſtate;</l>
+               <l>Sage <hi>Verulam</hi> ſublim'd for ſcience great,</l>
+               <l>As <hi>Chancellour,</hi> next him had the firſt ſeat:</l>
+               <l>And next to him, <hi>Budeus</hi> did appear,</l>
+               <l>Hee of <hi>Parnaſſus</hi> was <hi>High Treaſurer:</hi>
+               </l>
+               <l>
+                  <hi>Sidney</hi> tooke place upon the other ſide,</l>
+               <l>Who th' office of <hi>High Conſtable</hi> ſupply'd:</l>
+               <l>But <hi>Picus</hi> of <hi>Mirandula,</hi> (who was</l>
+               <l>
+                  <hi>High Chamberlaine</hi>) aſſumed the fourth place;</l>
+               <l>The elder <hi>Scaliger</hi> his place then tooke</l>
+               <l>Before <hi>Eraſmus,</hi> who ſhew'd in his looke</l>
+               <l>Diſtaſte, for hee (like <hi>Pompey</hi>) tooke diſpleaſure</l>
+               <l>To ſee himſelfe put downer by <hi>Julius Ceſar.</hi>
+               </l>
+               <l>In cuerpo then did <hi>Juſtus Lipſius</hi> ſit,</l>
+               <l>Who more devotion had expreſt then wit,</l>
+               <pb n="8" facs="tcp:123400:8"/>
+               <l>When to an <hi>Image</hi> hee bequeath'd his gown;</l>
+               <l>But had hee not been for a <hi>Turnecoate</hi> known,</l>
+               <l>His offer'd garment might have found eſteeme,</l>
+               <l>Which fitter for a Frippery did ſeeme,</l>
+               <l>Then for her uſe, to whom it was preſented.</l>
+               <l>Next him ſate <hi>Barclay,</hi> ſomewhat diſcontented,</l>
+               <l>'Cauſe hee had fail'd in finding that reſpect,</l>
+               <l>Which hee from <hi>Romes Archflamen</hi> did expect.</l>
+               <l>
+                  <hi>Bodine, Turnebus, Caſaubon,</hi> and <hi>Grotius,</hi>
+               </l>
+               <l>
+                  <hi>Maſcardus, Heinſius, Selden, Voſsius,</hi>
+               </l>
+               <l>Approved Criticks all, did there appeare</l>
+               <l>On the judiciall Bench with lookes ſevere.</l>
+               <l>But when old <hi>Camden</hi> thought to take his place,</l>
+               <l>
+                  <hi>Apollo</hi> him repuls'd with ſome diſgrace:</l>
+               <l>For hee of late receiv'd had a complaint</l>
+               <l>From hands of credit, which did him attaint</l>
+               <l>Of miſdemeanours, acted in a ſtory,</l>
+               <l>That did detract from a <hi>Great Ladies</hi> glory,</l>
+               <l>Wherein hee was accus'd to have reveal'd</l>
+               <l>Somethings, which better might have been conceal'd</l>
+               <l>Had they been truths: What madneſſe him miſled,</l>
+               <l>T aſperſe the aſhes of that <hi>Phoenix</hi> dead,</l>
+               <l>With notes of infamy, whoſe fun'rall flame</l>
+               <l>Raviſh'd the world with th'odour of her fame?</l>
+               <pb n="9" facs="tcp:123400:8"/>
+               <l>Doubtleſſe the living hee to flatter knew,</l>
+               <l>Much better then to give the dead her due.</l>
+            </lg>
+            <lg>
+               <l>(The Court ſet) the ſturdy <hi>Keeper</hi> then</l>
+               <l>Of the unhoſpitall <hi>Trophonian Den,</hi>
+               </l>
+               <l>His trembling Pris'ners brought unto the barre;</l>
+               <l>For ſterne aſpect, with <hi>Mars</hi> hee might compare,</l>
+               <l>But by his belly, and his double chinne,</l>
+               <l>Hee look'd like the old Hoſte of a <hi>New Inne.</hi>
+               </l>
+               <l>Thus when ſowre <hi>Ben</hi> his fetter'd cattell had</l>
+               <l>Shut up together in the pinfold ſad:</l>
+               <l>
+                  <hi>John Taylour,</hi> then the Courts ſhrill <hi>Chanticleere,</hi>
+               </l>
+               <l>Did ſummon all the <hi>Jurours</hi> to appeare:</l>
+               <l>Hee had the Cryers place: an office fit,</l>
+               <l>For him that hath a better voyce, then wit.</l>
+               <l>Hee, who was called firſt in all the Liſt,</l>
+               <l>
+                  <hi>George Withers</hi> hight, entitled Satyriſt;</l>
+               <l>The <hi>Cary, May,</hi> and <hi>Davenant</hi> were call'd forth;</l>
+               <l>Renowned Poets all, and men of worth,</l>
+               <l>If wit may paſſe for worth. Then <hi>Sylveſter,</hi>
+               </l>
+               <l>
+                  <hi>Sands, Drayton, Beaumont, Fletcher, Maſsinger,</hi>
+               </l>
+               <l>
+                  <hi>Shakeſpeare,</hi> and <hi>Heywood,</hi> Poets good and free;</l>
+               <l>Dramatick writers all, but the firſt three:</l>
+               <l>Theſe were empanell'd all, and being ſworne</l>
+               <l>A juſt and perfect verdict to returne,</l>
+               <pb n="10" facs="tcp:123400:9"/>
+               <l>A Malefactour then receiv'd command,</l>
+               <l>Before the Barre to elevate his hand;</l>
+               <l>
+                  <hi>Mercurius Britanicus</hi> by name,</l>
+               <l>Was hee, who firſt was call'd to play his game:</l>
+               <l>Then <hi>Edmund Spenſer</hi> Clarke of the Aſſiſe,</l>
+               <l>Read the Endictment loud, which did compriſe</l>
+               <l>Matters of ſcandall, and contempt extreme,</l>
+               <l>Done 'gainſt the Dignitie, and Diademe</l>
+               <l>Of great <hi>Apollo,</hi> and that legall courſe,</l>
+               <l>Which throughout all <hi>parnaſſus</hi> was in force.</l>
+               <l>For uſe of Mercury hee was accuſ'd,</l>
+               <l>Which weekely hee into his inke infuſ'd,</l>
+               <l>Thereby to murther, and deſtroy the fame</l>
+               <l>Of many, with ſtrange obloquie, and ſhame.</l>
+               <l>Hee likewiſe was accuſ'd, to have purloin'd</l>
+               <l>Some drachmes of wit, with a felonious mind,</l>
+               <l>From <hi>Helicon,</hi> which hee in Satyrs mixt,</l>
+               <l>To make ſome laugh, and others deepely vext.</l>
+               <l>Unto his charge they likewiſe did object,</l>
+               <l>That when hee ſaw his lines could not effect</l>
+               <l>His ends, and aymes, which were his foe to kill,</l>
+               <l>Or elſe to make him torow away his quill;</l>
+               <l>That then hee ſought by magick Arts to call</l>
+               <l>
+                  <hi>Archilochus</hi> his ghoſt from <hi>Pluto's</hi> hall,</l>
+               <pb n="11" facs="tcp:123400:9"/>
+               <l>To teach him how ſuch language to indite,</l>
+               <l>As might make ſome even hang themſelves for ſpite.</l>
+            </lg>
+            <lg>
+               <l>This was his charge in brief; (which being read)</l>
+               <l>To his indictment he was call'd to plead:</l>
+               <l>Not guilty, he replies, and did ſubmit</l>
+               <l>Himſelfe to the integrity and wit</l>
+               <l>Of twelve ſufficient Poets, but entreated,</l>
+               <l>To heare the Jurours names againe repeated:</l>
+               <l>(Which done) hee on exceptions did inſiſt,</l>
+               <l>Aſſerted againſt divers of the liſt.</l>
+               <l>On confident <hi>George Withers</hi> firſt hee fix'd,</l>
+               <l>As one unfit with others to bee mix'd</l>
+               <l>In his arraignment, for he did proteſt,</l>
+               <l>That <hi>Withers</hi> was a cruell Satyriſt;</l>
+               <l>And guilty of the ſame offence and crime,</l>
+               <l>Whereof hee was accuſed at this time:</l>
+               <l>Therefore for him hee thought it fitter farre,</l>
+               <l>To ſtand as a Delinquent at the barre,</l>
+               <l>Then to bee now empanell'd in a Jury.</l>
+               <l>
+                  <hi>George Withers</hi> then, with a Poetick fury,</l>
+               <l>Began to bluſter, but <hi>Apollo's</hi> frowne</l>
+               <l>Mde him forbeare, and lay his choler downe.</l>
+               <l>But <hi>Phoebus,</hi> thus <hi>Britanicus</hi> corrects,</l>
+               <l>Our Majeſty (ſaid hee) which ſtill protects</l>
+               <pb n="12" facs="tcp:123400:10"/>
+               <l>The innocent, but doth offend ours ſcourge,</l>
+               <l>Ingag'd is honeſt <hi>Withers</hi> for to purge</l>
+               <l>From this offence: for his impartiall pen</l>
+               <l>Did rather groſſe abuſes taxe, then men:</l>
+               <l>Or that hee did tranſgreſſe, let us admit;</l>
+               <l>Since long agoe, hee ſmarted for his wit.</l>
+               <l>Nor was <hi>Britanicus</hi> with this abaſh'd,</l>
+               <l>For with his cavils hee ſought to have daſh'd</l>
+               <l>Two other able Jurours, and theſe were</l>
+               <l>Deſerving <hi>Sands</hi> and gentle <hi>Sylveſter:</hi>
+               </l>
+               <l>To theſe opprobious language hee affords,</l>
+               <l>And them Tranſlators call'd, and men of words,</l>
+               <l>No Poets, but meer Rhymers, for (ſaid hee)</l>
+               <l>Invention is the ſoule of poefie,</l>
+               <l>And who can ſay, that ſuch a ſoule as this,</l>
+               <l>Is to bee found in their abilities?</l>
+               <l>For theſe are bondmen to anothers ſtile,</l>
+               <l>And when they have beſtow'd much time, and toile,</l>
+               <l>They doe but what, before, was better done;</l>
+               <l>For Poemes loſe by their tranſlation,</l>
+               <l>And are deprived of that Iuſtre brave,</l>
+               <l>Which their originalls are wont to have:</l>
+               <l>Yea all the workes of theſe Tranſlators vaine,</l>
+               <l>Are rather labours of the hand, then braine:</l>
+               <pb n="13" facs="tcp:123400:10"/>
+               <l>Their aſinine endeavours have effected,</l>
+               <l>That nobler tongues and arts are now neglected;</l>
+               <l>While they in vulgar language repreſent</l>
+               <l>Thoſe notions which from vulgar wits diſſent:</l>
+               <l>This knot of Knaves the Common-wealth afflicts</l>
+               <l>Of your <hi>Parnaſsus</hi> with their jugling tricks;</l>
+               <l>For Rubies which in gold at firſt were ſet,</l>
+               <l>They into copper put, whereby they cheat</l>
+               <l>The ſimpler ſort, that want a piercing eye,</l>
+               <l>The difference of metals to deſcry.</l>
+               <l>Thus ſpake <hi>Britanicus:</hi> while many ſmil'd;</l>
+               <l>But <hi>Sands</hi> look's pale, and <hi>Sylveſter</hi> wax'd wild</l>
+               <l>For anger and diſdaine; <hi>Apollo</hi> then</l>
+               <l>Thus interpos'd, to vindicate theſe men,</l>
+               <l>
+                  <hi>Britanicus</hi> (ſaid hee) we have too long</l>
+               <l>The language heard of thy traducing tongue,</l>
+               <l>But <hi>Sylueſsers,</hi> and <hi>Sands</hi> his worth is ſuch,</l>
+               <l>That thy reproach cannot their honour touch:</l>
+               <l>Since Kings for Majeſty, and arts renown'd,</l>
+               <l>Have with receptions kind, their labours crown'd.</l>
+               <l>Beſides, wee are inclin'd by ſome reſpects,</l>
+               <l>Challeng'd from us, by the infirmer ſex,</l>
+               <l>Theſe writers of <hi>Parnaſſus</hi> to ſupport,</l>
+               <l>To pleaſe the fancy of that female ſort,</l>
+               <pb n="14" facs="tcp:123400:11"/>
+               <l>Whom want of theſe tranſlations might ſpurre on,</l>
+               <l>For to acquire, and get more tongues then one:</l>
+               <l>Which if they ſhould accompliſh, men might rue</l>
+               <l>Thoſe miſchiefes which would thereupon enſue.</l>
+               <l>But if nor <hi>Sands,</hi> nor <hi>Sylveſter</hi> can merit,</l>
+               <l>The titles of true Poets to inherit,</l>
+               <l>For what they have perform'd, yet wee relie</l>
+               <l>So much upon their truth, and loyaltie,</l>
+               <l>That wee cauſe them to paſſe upon thy tryall,</l>
+               <l>If ſpite of thy exception or denyall.</l>
+               <l>Thus ſpake <hi>Apollo:</hi> then the Pris'ner was</l>
+               <l>Injoyn'd to ſtand aſide, and in his place</l>
+               <l>Did <hi>Aulicus</hi> ſucceed, who by command,</l>
+               <l>In humble ſort uprear'd his guilty hand:</l>
+               <l>Full ſadly his indictment he attends,</l>
+               <l>Which him impeach'd, that hee for wicked ends</l>
+               <l>Had the <hi>Caſt alian Spring</hi> defil'd with gall;</l>
+               <l>And chang'd by witchcraft, moſt Satyricall,</l>
+               <l>The bayes of <hi>Helicon,</hi> and myrtles mild,</l>
+               <l>To pricking hauthornes, and to hollyes wild.</l>
+               <l>Hee was accus'd, that he with ſlanders falſe,</l>
+               <l>With forged fictions, calumnies and tales,</l>
+               <l>Had ſought the <hi>Spartane Ephori</hi> to ſhame,</l>
+               <l>And added fewell to the direfull flame</l>
+               <pb n="15" facs="tcp:123400:11"/>
+               <l>Of civill diſcord, and domeſticke blowes,</l>
+               <l>By the incentives of malicious proſe.</l>
+               <l>For whereas, hee ſhould have compos'd his inke</l>
+               <l>Of liquours, that make flames expire, and ſhrinke</l>
+               <l>Into their cinders, it was there objected,</l>
+               <l>That hee had his of burning oile confected,</l>
+               <l>Of Naphtha, Gunpowder, Pitch, and Saltpeter,</l>
+               <l>Which thoſe combuſtions raiſed, and made greater.</l>
+               <l>Hee was accus'd to have unjuſtly ſtung</l>
+               <l>The ſage <hi>Amphictyons</hi> with his venom'd tongue;</l>
+               <l>And that he like the fierce Albanian curre,</l>
+               <l>Did ſtubbornly chooſe rather to demurre,</l>
+               <l>And bee diſmembred by anothers wit,</l>
+               <l>Then looſe his teeth from thoſe, whom firſt hee bit.</l>
+               <l>Hee was accus'd, that he had us'd his skill,</l>
+               <l>
+                  <hi>Parnaſſus</hi> with ſtrange here fies to fill,</l>
+               <l>And that he labour'd had for to bring in,</l>
+               <l>Th' exploded doctrines of the <hi>Florentine,</hi>
+               </l>
+               <l>And taught that to diſſemble and to lie,</l>
+               <l>Were vitall parts of humane policie:</l>
+               <l>Of his endictment this was the full ſenſe:</l>
+               <l>To which the Pris'ner pleades his innocence,</l>
+               <l>And puts himſelf upon a legall tryall,</l>
+               <l>But he withall exhibites a denyall</l>
+               <pb n="16" facs="tcp:123400:12"/>
+               <l>Againſt a Jurour, for his ſuit it was,</l>
+               <l>That <hi>May</hi> on his arraignment might not paſſe:</l>
+               <l>For though a Poet hee muſt him confeſſe,</l>
+               <l>Becauſe his writings did atteſt no leſſe;</l>
+               <l>Yet hee deſir'd hee might be ſet aſide,</l>
+               <l>Becauſe hee durſt not in his truth confide:</l>
+               <l>Of <hi>May</hi> among twelve moneths he well approv'd,</l>
+               <l>But <hi>May</hi> among Twelve men hee never lov'd:</l>
+               <l>For hee beleev'd that out of private ſpite</l>
+               <l>Hee would his conſcience ſtraine, t'undoe him quite.</l>
+               <l>Hee likewiſe of offences him accus'd,</l>
+               <l>Whereby his King <hi>Apollo</hi> was abus'd:</l>
+               <l>And with malicious arguments attempts</l>
+               <l>To prove him guilty of ſublime contempts,</l>
+               <l>But chiefly he indeavour'd to conclude,</l>
+               <l>That hee was guilty of ingratitude:</l>
+               <l>Which crime <hi>Parnaſſus</hi> Lawes doe ſo oppoſe,</l>
+               <l>As in that State, it for high Treaſon goes.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>May</hi> ſtept forth, and firſt implor'd the grace</l>
+               <l>And leave of <hi>Phoebus</hi> to maintaine his caſe:</l>
+               <l>Then to the <hi>Learned Cunſiſtory</hi> ſues,</l>
+               <l>That they would him or cenſure, or excuſe:</l>
+               <l>Then calls the Gods, and all whom they protect,</l>
+               <l>The Starres, and all on whom they doe reflect,</l>
+               <pb n="17" facs="tcp:123400:12"/>
+               <l>The Elements, and what's compos'd of theſe,</l>
+               <l>Him to acquit from all diſloyalties.</l>
+               <l>If by juſt proofes (ſaid hee) thou canſt evince,</l>
+               <l>That I have beene ungratefull to my Prince,</l>
+               <l>Then let mee from theſe groves bee now exil'd</l>
+               <l>To Scythian ſnowes, or into deſerts wild;</l>
+               <l>Yea, I invoke the Gods that I may feele</l>
+               <l>The Gyants valour, or <hi>Ixions</hi> wheele,</l>
+               <l>If it bee found I have tranſgreſſed thus,</l>
+               <l>As 'tis inform'd by lying <hi>Aulicus.</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> then darts forth an awfull ray</l>
+               <l>From his impiercing eye, which ſilenc'd <hi>May.</hi>
+               </l>
+               <l>So <hi>Kings</hi> (if they bee juſt) may rule like Gods,</l>
+               <l>And be obſerved by their lookes, and nods.</l>
+               <l>Hee <hi>Aulicus</hi> rebuk'd, becauſe hee knew</l>
+               <l>His accuſation from meere malice grew:</l>
+               <l>And him advis'd in peace to ſtand a ſide,</l>
+               <l>If hee deſir'd with favour to be try'd.</l>
+               <l>The <hi>Cryer</hi> then did ſummon to the Bar,</l>
+               <l>The <hi>Penman</hi> of the <hi>Weekely Calendar,</hi>
+               </l>
+               <l>Entituled the new <hi>Ephemerides,</hi>
+               </l>
+               <l>Perfect Diurnalls call them, if you pleaſe;</l>
+               <l>But their perfection cannot mee invite,</l>
+               <l>To thinke they merit ſuch an Epethite,</l>
+               <pb n="18" facs="tcp:123400:13"/>
+               <l>Except truths now for imperfections paſſe,</l>
+               <l>And gold in eſtination yeelds to braſſe.</l>
+            </lg>
+            <lg>
+               <l>Of his endictment the whole ſumme was this,</l>
+               <l>That hee had wrong'd th' <hi>Athenian Noveliſts,</hi>
+               </l>
+               <l>By ſelling them meere aire, in ſtead of Sack,</l>
+               <l>And puffes of wind, for ſtrong Frontigniac:</l>
+               <l>For empty bottles hee was wont to mixe</l>
+               <l>Among full flaſques, and with theſe cheating trickes</l>
+               <l>Deceiv'd thoſe Merchants, who were not ſo wiſe</l>
+               <l>To know the full from empty by the poiſe.</l>
+               <l>A fourth Deliquent then was called out,</l>
+               <l>A <hi>Second Proteus</hi> or the learned <hi>Scout:</hi>
+               </l>
+               <l>This wiſe <hi>Chamaeleon</hi> was wont to weare</l>
+               <l>That hue, which was propounded by his feare:</l>
+               <l>The ſumme of his indictment this contain'd;</l>
+               <l>That whereas hee had from <hi>Apollo</hi> gain'd</l>
+               <l>A <hi>Patent</hi> to report true newes abroad,</l>
+               <l>Without diſſimulation, guile, or fraud,</l>
+               <l>Yet hee adulterated had his ware</l>
+               <l>With manifold impertinences rare,</l>
+               <l>Yea from his center ſwarv'd, and gone aſtray</l>
+               <l>Into ſome matters farre beyond his way:</l>
+               <l>And that hee with eight <hi>Pages undiſcreet,</hi>
+               </l>
+               <l>Had toſs'd and tax'd high actions in a ſheet:</l>
+               <pb n="19" facs="tcp:123400:13"/>
+               <l>That he prognoſticks had preſum'd to reare,</l>
+               <l>On ſtarres above his quadrant, and his ſpheare:</l>
+               <l>And that he had prefum'd likewiſe to mixe</l>
+               <l>With his Aviſoes ſweet, foure politicks,</l>
+               <l>Diſperſing weekly maximes of State,</l>
+               <l>As if he chiefly at the helme had ſtate:</l>
+               <l>And that he had oft in ambiguous faſhions,</l>
+               <l>Appear'd as one transform'd in his relations,</l>
+               <l>That it was very difficult to find,</l>
+               <l>Whether he were a bird, or beaſt by kind:</l>
+               <l>He was accus'd, that he with cenſures bold,</l>
+               <l>The actions of his betters had controld,</l>
+               <l>And that he with his mercenary hand,</l>
+               <l>Had touch'd affaires of weight not to be ſcann'd</l>
+               <l>By ſuch as hee: thus was the <hi>Scout</hi> indited,</l>
+               <l>But when he was unto his anſwer cited,</l>
+               <l>Hee pleads himſelfe to be an Innocent,</l>
+               <l>And humbly crav'd the <hi>Bench</hi> for to conſent</l>
+               <l>To his impunity, and to diſpence</l>
+               <l>VVith errours, that ariſe from indigence:</l>
+               <l>He further added; ſince his fate it was</l>
+               <l>To be referr'd for tryall of his caſe</l>
+               <l>Unto twelve mouthes; he crav'd they would admit</l>
+               <l>Twelve noſes too; him to condemne, or quit,</l>
+               <pb n="20" facs="tcp:123400:14"/>
+               <l>That no defect might be of any ſence,</l>
+               <l>To ſmell, or to find out his innocence.</l>
+               <l>
+                  <hi>Apollo</hi> then retorts an irefull glance,</l>
+               <l>And daſh'd the Pris'ner out of countenance:</l>
+               <l>He told him now 't was time to lay aſide</l>
+               <l>Impertinent diſcourſe, he ſhould be tryed</l>
+               <l>By twelve, who were ſufficient Men, and fit</l>
+               <l>Both for integrity, and pregnant wit:</l>
+               <l>And as for him, whoſe Vote he did reject,</l>
+               <l>Upon a cavill againſt ſome defect:</l>
+               <l>Hee him aſſur'd that all the world might know,</l>
+               <l>His art was high, although his noſe was low:</l>
+               <l>But <hi>Madagaſcar</hi> chiefly did expreſs</l>
+               <l>His raptures brave, and laur'ate worthineſs.</l>
+               <l>The <hi>Scout</hi> commanded was then to ſtand by:</l>
+               <l>And <hi>Civicus</hi> held up his hand on high:</l>
+               <l>Good civill <hi>Civicus,</hi> who to his booke</l>
+               <l>Emblemes affix'd, of what he undertooke;</l>
+               <l>For ſilly rimes appear'd in the firſt place,</l>
+               <l>To which was added ſome Commanders face,</l>
+               <l>That in reſemblance, did no more comply,</l>
+               <l>With him, whom it was ſaid to ſignifie,</l>
+               <l>Then doe ſome ſtoryes which his books containe,</l>
+               <l>Reſemble truths: But his offences vaine,</l>
+               <pb n="21" facs="tcp:123400:14"/>
+               <l>In his endictment were declar'd at large,</l>
+               <l>And this was the full purport of his charge;</l>
+               <l>He was accus'd that he through ſcience bad,</l>
+               <l>Or Magick, or Magnetick figures, had</l>
+               <l>Prefixed to his books; which did enchant</l>
+               <l>The fancies of the weak, and ignorant,</l>
+               <l>And caus'd them to beſtow more time, and coine,</l>
+               <l>On ſuch fond Pamphlets, then on books divine:</l>
+               <l>It was affirm'd, that he was wont to ſcatter,</l>
+               <l>Upon his ſingle ſheet, more words, then matter,</l>
+               <l>And that he had with tranſmarine narrations,</l>
+               <l>Recruted his domeſticall relations,</l>
+               <l>And from the <hi>Danes</hi> and <hi>Swedes</hi> fetch'd cold diſ<g ref="char:EOLhyphen"/>courſe</l>
+               <l>To cloy the ſtomacks of his Auditours;</l>
+               <l>And with ſuch ſtuffe his latter pages patch'd,</l>
+               <l>That they <hi>Brittannicus</hi> his doctrines match'd,</l>
+               <l>Who doubts, and ſatisfactions wont t'invent,</l>
+               <l>That gave nor ſatisfaction nor content.</l>
+               <l>VVhile <hi>Civicus</hi> did thus his tryall heare;</l>
+               <l>One comes, and whiſpers, <hi>Phoebus</hi> in the eare,</l>
+               <l>And him advertis'd, that a ſecret friend</l>
+               <l>Of <hi>Civicus,</hi> did to his <hi>Highneſs</hi> ſend,</l>
+               <l>A preſent of ſome Sack, and ſugar loaves,</l>
+               <l>And that there with, the Giver humbly moves,</l>
+               <pb n="22" facs="tcp:123400:15"/>
+               <l>That the poore Pris'ner might receive ſuch grace,</l>
+               <l>As might be juſtly found in ſuch a caſe.</l>
+               <l>
+                  <hi>Apollo</hi> then, in choler and diſdain,</l>
+               <l>Did thus break out in termes. VVhat madneſs vain</l>
+               <l>Or impudence (ſaid He) in humane race</l>
+               <l>Remains? That they ſhould think with bribes t'ef<g ref="char:EOLhyphen"/>face</l>
+               <l>Our reſolutions juſt, and us divert</l>
+               <l>From judgement by the law, and by deſert;</l>
+               <l>Then he the <hi>Gaoler</hi> call'd for (<hi>Honeſt Ben</hi>)</l>
+               <l>The Keeper fat, of the <hi>Trophonian Den:</hi>
+               </l>
+               <l>Him he commands to ſeize upon (in haſt)</l>
+               <l>The bringer of the bribe, and keep him faſt;</l>
+               <l>And ſince the <hi>Tubbe</hi> of which he told the tale,</l>
+               <l>By ſplitting, had deceiv'd him of his ale;</l>
+               <l>And ſince his <hi>New-Inne</hi> too had got a crack,</l>
+               <l>He bids him take the Sugar loves, and Sack,</l>
+               <l>To make his lov'd <hi>Magnatick Lady</hi> glad,</l>
+               <l>That ſtill (for want of an applauſe) was fad.</l>
+               <l>Then <hi>Civicus</hi> unto his charge did plead</l>
+               <l>Not guilty, and was bidden to recede.</l>
+               <l>Then with a look like to his ſtyle ſubmiſſe,</l>
+               <l>Stood forth. the <hi>Writes</hi> of <hi>Occurrences:</hi>
+               </l>
+               <l>He was accuſed to have injur'd <hi>Fame,</hi>
+               </l>
+               <l>And to have diſguis'd falſhood by the name</l>
+               <pb n="23" facs="tcp:123400:15"/>
+               <l>Of <hi>Truth,</hi> and with a goodly <hi>Frontiſpeice,</hi>
+               </l>
+               <l>To have procur'd his bookes eſteeme, and price:</l>
+               <l>Which were compar'd unto a painted Inne,</l>
+               <l>That had nor good wine, nor good cheare within.</l>
+               <l>He was accus'd, that like a ſubtile theife,</l>
+               <l>He had his readers rob'd of their beleife,</l>
+               <l>And of their wit, and judgment them bereav'd,</l>
+               <l>That willingly, were with his lies deceiv'd:</l>
+               <l>But if ſome truths (by chance) he utter'd had,</l>
+               <l>Theſe were in ſuch a tedious language clad,</l>
+               <l>That many actors of renowned jeſts,</l>
+               <l>Depriv'd were of their honor'd intereſts,</l>
+               <l>By his inglorious penne, and alſo thoſe</l>
+               <l>Who did affect true elegance in proſe,</l>
+               <l>Did from his ruſtick phraſe conceive more hate,</l>
+               <l>Then pleaſure from thoſe things he did relate.</l>
+               <l>It likewiſe was deliver'd in his charge,</l>
+               <l>That he had tortur'd, with his letters large,</l>
+               <l>Ingenious eares, which to plebeian hands</l>
+               <l>He captives made, in auſcultations bands.</l>
+               <l>And that mens names, on credit he up tooke,</l>
+               <l>All which he liſted to fill up his booke,</l>
+               <l>And for to make a greater noiſe, he ſummes</l>
+               <l>Both Trumpets, Seargeants, Corporalls, &amp; drums,</l>
+               <pb n="24" facs="tcp:123400:16"/>
+               <l>Among the numbers of the ſlain, or taken,</l>
+               <l>Wherby he did great Officers awaken,</l>
+               <l>That ſlep't in honours bed, who did complaine,</l>
+               <l>To ſee themſelves mixt with that vulgar train</l>
+            </lg>
+            <lg>
+               <l>The Pris'ners plea to this indictment was</l>
+               <l>Flat negative, for in the plaineſt caſe,</l>
+               <l>Al malefactors hate confeſſion free,</l>
+               <l>Confeſſe and hang is ſtill their maximé.</l>
+               <l>The Pris'ner alſo crav'd, he might be heard,</l>
+               <l>While he againſt a jury-man preferr'd</l>
+               <l>A juſt exception, his requeſt was granted,</l>
+               <l>And fraught with malice, though much wit he wanted,</l>
+               <l>He gentle Mr. <hi>Cary</hi> did refuſe,</l>
+               <l>Who pleas'd faire Ladies with his courtly muſe:</l>
+               <l>He ſaid, that he by his luxurious penne,</l>
+               <l>Deſerv'd had better the <hi>Trophonian Denne,</hi>
+               </l>
+               <l>Then many now which ſtood to be arraign'd,</l>
+               <l>For he the <hi>Theſpian Fountaine</hi> had diſtain'd,</l>
+               <l>With ſoule conceits, and made their waters bright,</l>
+               <l>Impure, like thoſe of the <hi>Hermophrodue,</hi>
+               </l>
+               <l>He ſaid, that he in verſe, more looſe had bin,</l>
+               <l>Then old <hi>Chaerephanes,</hi> or <hi>Aretine,</hi>
+               </l>
+               <l>In obſcaene portraitures: and that this fellow</l>
+               <l>In <hi>Helicon</hi> had reard the firſt <hi>Burdello,</hi>
+               </l>
+               <pb n="25" facs="tcp:123400:16"/>
+               <l>That he had chang'd the chaſt <hi>Caſtalian ſpring,</hi>
+               </l>
+               <l>Into a <hi>Carian Well,</hi> whoſe waters bring</l>
+               <l>Effeminate deſites, and thoughts uncleane,</l>
+               <l>To minds that earſt were pure, and moſt ſerene,</l>
+               <l>Thus ſpake the pris'ner, when a furious glance,</l>
+               <l>Was darted from <hi>Apollos</hi> countenance,</l>
+               <l>Which ſtrook him dumb: then <hi>Scaliger the wiſe</hi>
+               </l>
+               <l>Was call'd, to whom <hi>Apollo</hi> thus aplies</l>
+               <l>His Speech. <hi>Grave Cenſour</hi> of our learned Hill</l>
+               <l>Whom your owne merit, and our royall will</l>
+               <l>Hath ſuperviſour made of Arts, and Muſes,</l>
+               <l>I wonder at the noiſe of theſe abuſes,</l>
+               <l>For I conceive not yet, that theſe effects,</l>
+               <l>Should be th'unhappy fruites of your neglects,</l>
+               <l>So well you'ave purg'd the <hi>errours of the Times,</hi>
+               </l>
+               <l>That I think not you could permit ſuch crimes,</l>
+               <l>Our manners to corrupt, ſince that our ſprings</l>
+               <l>Ought to be kept as pure as beds of Kings:</l>
+               <l>For he that vice, with ſcience doth commixe,</l>
+               <l>Turnes noble <hi>Hippocren'</hi> to ugly <hi>Styx,</hi>
+               </l>
+               <l>In marriage bonds hoth Heaven and Hell combine</l>
+               <l>Yet Art may Heaven and earth together joyne:</l>
+               <l>Thus ſpake <hi>Apollo,</hi> then learn'd <hi>Scaliger</hi>
+               </l>
+               <l>Shap'd the replye: I have (my Soveraigne deare)</l>
+               <pb n="26" facs="tcp:123400:17"/>
+               <l>With care intended what concerns my place,</l>
+               <l>So to conſerve your ſprings from mixtures baſe,</l>
+               <l>Yet all my care, and labour is but vaine,</l>
+               <l>Except <hi>Jove</hi> will conſent t'undoe againe</l>
+               <l>His worke of <hi>Humane nature,</hi> and the ſame</l>
+               <l>Of ſuch pure ſtuffe, and perfect temper frame,</l>
+               <l>As it of no corruption may admit:</l>
+               <l>For I have try'd my induſtry and wit,</l>
+               <l>Both Arts, and Authours to refine, and mend,</l>
+               <l>As well as times, yet can I not defend,</l>
+               <l>But ſome luxuriant witt, will often vent</l>
+               <l>Laſcivious Poëms, againſt my conſent:</l>
+               <l>Of which offence, if <hi>Cary</hi> guilty be,</l>
+               <l>Yet may ſome chaſter Songs him render free</l>
+               <l>From cenſure ſharp, and expiate thoſe crimes</l>
+               <l>Which are not fully his, but rather Times:</l>
+               <l>But let your Grace vouchſafe, that he may try</l>
+               <l>How he can make his own Apology:</l>
+               <l>
+                  <hi>Apollo</hi> then gave <hi>Cary</hi> leave to ſpeake,</l>
+               <l>Who thus in modeſt ſort, did ſilence breake.</l>
+            </lg>
+            <lg>
+               <l>In wiſdomes nonage, and unriper yeares,</l>
+               <l>Some lines ſlipt from my penne, which ſince with teares</l>
+               <l>I labour'd to expunge: This Song of mine</l>
+               <l>Was not infuſed by the Virgins nine,</l>
+               <pb n="27" facs="tcp:123400:17"/>
+               <l>Nor through my dreames divine upon this Hill,</l>
+               <l>Did this vain <hi>Rapture</hi> iſſue from my quill,</l>
+               <l>No Theſpian waters, but a Paphian fire,</l>
+               <l>Did me with this foule extaſie inſpire:</l>
+               <l>I oft have wiſh'd, that I (like <hi>Saturne</hi>) might</l>
+               <l>This Infant of my folly ſmother quite,</l>
+               <l>Or that I could retract, what I had done,</l>
+               <l>Into the boſome of Oblivion.</l>
+               <l>Thus <hi>Cary</hi> did conclude: for preſt by griefe,</l>
+               <l>Hee was compell'd to be conciſe, and briefe:</l>
+               <l>
+                  <hi>Phoebus</hi> at his contrition did relent,</l>
+               <l>And Edicts ſo on through all <hi>Parnaſſus</hi> ſent,</l>
+               <l>That none ſhould dare to attribute the ſhame</l>
+               <l>Of that fond <hi>rapture,</hi> unto <hi>Caryes</hi> name,</l>
+               <l>But Order'd that the infamy ſhould light</l>
+               <l>On thoſe, who did the ſame read, or recite.</l>
+               <l>Hee further-more the Pris'ner did injoyne,</l>
+               <l>Againſt him all exceptions to decline,</l>
+               <l>And to a legall tryall for to ſtand,</l>
+               <l>If Hee expected favour at his hand.</l>
+            </lg>
+            <lg>
+               <l>The innocent <hi>Scotch Dove</hi> did then advance,</l>
+               <l>Full ſober in his wit, and countenance,</l>
+               <l>And though his books contain'd not mickle ſence,</l>
+               <l>Yet his endictment ſhew'd no great offence;</l>
+               <pb n="28" facs="tcp:123400:18"/>
+               <l>Great Wits, to perills great themſelves expoſe</l>
+               <l>Oft' times; but the <hi>Scotch Dove</hi> was none of thoſe:</l>
+               <l>In many words he little matter dreſt,</l>
+               <l>And did Laconick brevity deteſt,</l>
+               <l>Perſpicuous phraſe he lov'd, could not endure</l>
+               <l>To be in ſtile, or in his life obſcure,</l>
+               <l>But while his Readers did expect ſome newes,</l>
+               <l>They found a Sermon, thus did he abuſe</l>
+               <l>Good people, that he rather might have took</l>
+               <l>A Lapwing, then a Dove to trimme a book:</l>
+            </lg>
+            <lg>
+               <l>This was his charge: and being call'd to plead,</l>
+               <l>Hee cryes not guilty, and petitioned</l>
+               <l>He might be heard to vindicate his worth</l>
+               <l>From ſcandall, and reproach, on him caſt forth</l>
+               <l>By <hi>Aulicus,</hi> that ſcoffing <hi>Hipponax,</hi>
+               </l>
+               <l>Who with lewd crimes, did him unjuſtly tax;</l>
+               <l>His ſute was granted, then did he complaine</l>
+               <l>That <hi>Aulicus,</hi> his title did diſdaine,</l>
+               <l>And ſpitefully in ſtead of <hi>Scottiſh Pigeon,</hi>
+               </l>
+               <l>Had him the nick-name given of <hi>Scottiſh Wigion,</hi>
+               </l>
+               <l>And that he had moſt falſly him accus'd,</l>
+               <l>Preſtigious Arts, and Magick to have us'd,</l>
+               <l>Whereby Mens ſenſes were with errours ſtrook,</l>
+               <l>That firebrands, they for <hi>olive branches</hi> took.</l>
+            </lg>
+            <pb n="29" facs="tcp:123400:18"/>
+            <lg>
+               <l>Thus ſpake the <hi>Dove: Apollo</hi> then reply'd,</l>
+               <l>Wee might condemne your arrogance, and pride,</l>
+               <l>Cauſe you the name of <hi>venus</hi> birds have choſe,</l>
+               <l>When <hi>Scotland</hi> hath (you know) no birds like thoſe,</l>
+               <l>Though it abounds with fowle of various kinds;</l>
+               <l>But errours ſmall provoke not heavenly minds,</l>
+               <l>I doubt not, but that <hi>Aulicus</hi> his tongue</l>
+               <l>Hath injur'd you, but were this all the wrong</l>
+               <l>Which it hath done, He might our cenſure ſcape,</l>
+               <l>And paſſe, not for a Serpent, but an Ape.</l>
+               <l>thus <hi>Phoebus</hi> ſpake; And then the <hi>Scoitiſh Dove</hi>
+               </l>
+               <l>Rejoyn'd, as zeale and choler did him move;</l>
+            </lg>
+            <lg>
+               <l>I challenge to the duell of the pen</l>
+               <l>Falſe <hi>Aulicus,</hi> that Cynick among men,</l>
+               <l>That enemy of Truth, true honours ſcourge,</l>
+               <l>That Officine of lyes, and ſlanders forge,</l>
+               <l>Oh let your Grace vouchſafe to turne me looſe,</l>
+               <l>A <hi>Scottiſh Dove,</hi> againſt the <hi>Romiſh Gooſe.</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> then reflects a frowning eye,</l>
+               <l>Commands him to deſiſt, and to ſtand by.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Cryer</hi> then did the ſwift <hi>Poſt</hi> command,</l>
+               <l>At his indictment to hold up his hand:</l>
+               <l>He was accus'd of theſe enormities,</l>
+               <l>Firſt that with Encheridions of lyes,</l>
+               <pb n="30" facs="tcp:123400:19"/>
+               <l>He had diſturb'd the learned Common-weale,</l>
+               <l>And alſo in felonious ſort did ſteale</l>
+               <l>From <hi>Euphues,</hi> and <hi>Arcadia,</hi> language gay</l>
+               <l>Therein his vain relations to array,</l>
+               <l>Becauſe he knew that lyes in fine attires,</l>
+               <l>Preferr'd are before truths, by many buyers:</l>
+               <l>Such was his ſtyle, ſuch tales did he endite,</l>
+               <l>That he no newes, but <hi>Romants</hi> ſeem'd to write;</l>
+               <l>It alſo ſtrongly was againſt him urg'd,</l>
+               <l>That he ſome Packets had contriv'd, and forg'd,</l>
+               <l>Which letters did of falſe reports containe,</l>
+               <l>And this was meerely done for thirſt of gaine:</l>
+               <l>This was his charge; and becauſe he divin'd</l>
+               <l>That free confeſſion might ſome favour find,</l>
+               <l>Hee guilty pleads, and then was ſet aſide.</l>
+               <l>Another then was call'd forth to be try'd:</l>
+               <l>And this was he, who weekly did diſpence</l>
+               <l>A miſcellany of intelligence:</l>
+               <l>Of his endictment, the effect was this,</l>
+               <l>That he had with his weekly repſodyes,</l>
+               <l>The Aſſes of <hi>Parnaſsus</hi> ſore anno'd,</l>
+               <l>Whom he had fed with many rumours voyd,</l>
+               <l>And vapours vain. Thus like Chamelions they</l>
+               <l>Took ſmoke in ſtead of provender and hay,</l>
+               <pb n="31" facs="tcp:123400:19"/>
+               <l>And therby grew in ſence ſo leane, and lame:</l>
+               <l>That quite unfit for ſervice they became;</l>
+               <l>It was alleadg'd, that he for lucres ſake,</l>
+               <l>Did falſe intelligence deviſe, and make,</l>
+               <l>And car'd not who he gul'd, or did beguile,</l>
+               <l>Soe he might reap therby ſome profit vile.</l>
+            </lg>
+            <lg>
+               <l>Theſe were the crimes, wherof he was accus'd</l>
+               <l>To which he pleads not guilty, but refus'd</l>
+               <l>By Hiſtriomicke Poëts to be try'd,</l>
+               <l>'Gainſt whom, he thus maliciouſly enveigh'd</l>
+            </lg>
+            <lg>
+               <l>Juſtice (ſayd he) and no ſiniſter fury,</l>
+               <l>Diſwades me from a tryall by a jury,</l>
+               <l>That of worſe miſdemeanours guilty bee,</l>
+               <l>Then thoſe which are objected againſt mee:</l>
+               <l>Theſe mercinary pen-men of the Stage,</l>
+               <l>That foſter the grand viſes of this age,</l>
+               <l>Should in this Common-wealth no office beare,</l>
+               <l>But rather ſtand with vs Delinquents here:</l>
+               <l>
+                  <hi>Shakeſpear's</hi> a Mimicke, <hi>Maſsinger</hi> a Sot,</l>
+               <l>
+                  <hi>Heywood</hi> for <hi>Aganippe</hi> takes a plot:</l>
+               <l>
+                  <hi>Beamount</hi> and <hi>Fletcher</hi> make one poët, they</l>
+               <l>Single, dare not adventure on a Play.</l>
+               <l>Theſe things are all but th'errour of the Muſes,</l>
+               <l>Abortive witts, foul fountains of abuſes:</l>
+               <pb n="32" facs="tcp:123400:20"/>
+               <l>Reptiles, which are equivocally bred,</l>
+               <l>Under ſome hedge, not in that geniall bed</l>
+               <l>Where lovely art with a brave wit conjoyn'd,</l>
+               <l>Engenders Poets of the nobleſt kind.</l>
+               <l>
+                  <hi>Plato</hi> refus'd ſuch creatures to admit</l>
+               <l>Into his Common-wealth, and is it fit</l>
+               <l>
+                  <hi>Parnaſſus</hi> ſhould the exiles entertaine</l>
+               <l>Of <hi>Plato?</hi> therefore (my dread Soveraigne)</l>
+               <l>I crave your Pardon, while I thus preſume</l>
+               <l>To ſupplicate your Highneſs, to reſume</l>
+               <l>Your wonted Juſtice, that this ſacred Hill,</l>
+               <l>No more may ſuffer by ſuch members ill;</l>
+               <l>Thus ſpake the Pris'ner: then among the crowd,</l>
+               <l>
+                  <hi>Plautus,</hi> and <hi>Terence</hi> 'gan to mutter loud,</l>
+               <l>And old <hi>Menander</hi> was but ill apayd,</l>
+               <l>While <hi>Ariſtophanes</hi> his wrath bewray'd,</l>
+               <l>With words approbr'ous; for it gall'd him ſhrewd<g ref="char:EOLhyphen"/>ly,</l>
+               <l>To ſee dramatick Poets tax'd ſo lewdly:</l>
+               <l>And while' mongſt theſe, the murmure did encreaſe,</l>
+               <l>The Cryer warn'd them all to hold their peace.</l>
+            </lg>
+            <lg>
+               <l>The Court was ſilent, the <hi>Apollo</hi> ſpake:</l>
+               <l>If thou (ſaid He) chiefly for vertues ſake,</l>
+               <l>Or true affection to the Common-weale,</l>
+               <l>Didſt our Dramatick Poëts thus appeale,</l>
+               <pb n="33" facs="tcp:123400:20"/>
+               <l>VVe ſhould to thy exception give conſent,</l>
+               <l>But ſince we are aſſur'd, 'tis thy intent,</l>
+               <l>By this refuſall, onely to deferre</l>
+               <l>That cenſure, which our juſtice muſt conferre</l>
+               <l>Upon thy merits; we muſt needs decline</l>
+               <l>From approbation of theſe pleas of thine,</l>
+               <l>And are reſolv'd that at this time, and place,</l>
+               <l>They ſhall as Jurours, on thy tryall paſſe,</l>
+               <l>But if our <hi>Cenſour,</hi> ſhall hereafter find,</l>
+               <l>They have deſerved ill, we have deſign'd</l>
+               <l>That they likewiſe ſhall be to judgement brought,</l>
+               <l>To ſuffer for thoſe crimes, which they have wrought,</l>
+               <l>Thus ſpake the Soveraign of the two topp'd Mount,</l>
+               <l>Another then was call'd to an account,</l>
+               <l>And this was he, who weekly did pretend,</l>
+               <l>
+                  <hi>Accounts</hi> of certain news abroad to ſend.</l>
+               <l>He was accus'd, that he with Pamphlets vain,</l>
+               <l>The art of lying had ſought to maintain,</l>
+               <l>VVhich trade, he and his fellow us'd of late,</l>
+               <l>VVith ſuch ſucceſſe, and profit in the State</l>
+               <l>Of high <hi>Parnaſsas,</hi> that they did conſpite,</l>
+               <l>A <hi>Patent</hi> from <hi>Apollo</hi> to acquire:</l>
+               <l>That they might thus incorporated bee,</l>
+               <l>Into a <hi>Company</hi> of <hi>Lyers free.</hi>
+               </l>
+               <pb n="34" facs="tcp:123400:21"/>
+               <l>This was his charge: while he no whit relents,</l>
+               <l>But ſtood to juſtifie his innocence.</l>
+               <l>The <hi>Pen man</hi> of the <hi>Perfect Paſsages</hi>
+               </l>
+               <l>Then to his tryall did himſelfe addreſſe,</l>
+               <l>He was accus'd, that he for love of gain,</l>
+               <l>Had injur'd Truth, with many ſtories vain,</l>
+               <l>And that Hee with his mercenary quill,</l>
+               <l>Diſhonour'd had <hi>Apollo's Noble Hill.</hi>
+               </l>
+               <l>That Hee, and his aſſociates had attempted</l>
+               <l>In a felonious manner, to have empty'd</l>
+               <l>
+                  <hi>The Fountaines of the Muſes,</hi> to fulfill</l>
+               <l>That appetite which roſe from <hi>Livers ill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To this indictment he gave a denyall,</l>
+               <l>And yeelds himſelfe ſubmiſſively to his tryall.</l>
+               <l>The ſubtile <hi>Spye</hi> then to the barre drew nere,</l>
+               <l>And with dejected lookes, his hand did reare:</l>
+               <l>But he in his indictment was accus'd,</l>
+               <l>
+                  <hi>Old Galilaeos glaſses</hi> to have us'd,</l>
+               <l>Which repreſented objects to his eye,</l>
+               <l>Beyond their meaſure, and juſt ſymmetrie,</l>
+               <l>VVhereby the faults of many did appeare,</l>
+               <l>More and farre greater, then indeed they were:</l>
+               <l>And that he at a diſtance did recount,</l>
+               <l>(Like <hi>Lynceus</hi> from the Lilybean mount)</l>
+               <pb n="35" facs="tcp:123400:21"/>
+               <l>Numbers of ſhipps and men, though he indeed</l>
+               <l>So blind was, that he did a leader need.</l>
+               <l>He was accus'd that (like <hi>Aglaures</hi>) hee</l>
+               <l>Forbidden objects had preſum'd to ſee,</l>
+               <l>And therefore merited in law, and ſence,</l>
+               <l>His eares to forfeit, for his eyes offence.</l>
+            </lg>
+            <lg>
+               <l>Thus his Indictment rann: It he denies,</l>
+               <l>And for a tryall, on twelve men relyes;</l>
+               <l>But this deſpitefull <hi>Spye</hi> a cavill rais'd</l>
+               <l>'Gainſt <hi>Michael Drayton,</hi> whom he much diſprais'd</l>
+               <l>For that great <hi>Poly-Olbion</hi> which he writ,</l>
+               <l>This he tearm'd a rude Embrion of wit,</l>
+               <l>Apeice of low eſteeme, together layd</l>
+               <l>Without propicious <hi>Pallas,</hi> or the ayde</l>
+               <l>Of the nine Muſes, who did much diſdaine</l>
+               <l>The homely features of his <hi>Naiad's</hi> vaine.</l>
+            </lg>
+            <lg>
+               <l>Thus ſpake the <hi>Spye,</hi> and ſtill would have pro<g ref="char:EOLhyphen"/>ceeded</l>
+               <l>If that <hi>Apollo</hi> had not him impeded.</l>
+               <l>I thinke through th'inſolence of theſe (ſaid hee)</l>
+               <l>And our remiſſneſſe: we this Barr ſhall ſee</l>
+               <l>Become a ſtage of the <hi>Old Comedye,</hi>
+               </l>
+               <l>How boldly hath this proud traduceing <hi>Spye,</hi>
+               </l>
+               <l>And his <hi>Comrades,</hi> our honeſt Poëts checkt,</l>
+               <l>Who from the beſt have ever found reſpect:</l>
+               <pb n="36" facs="tcp:123400:22"/>
+               <l>Nor can ſmooth <hi>Drayton</hi> ſcape their cenſures ſharp</l>
+               <l>But at his workes this buſy <hi>Spye</hi> muſt carp:</l>
+               <l>
+                  <hi>Drayton,</hi> whoſe Sonnets ſweet of <hi>Love heroicke</hi>
+               </l>
+               <l>May melt th' <hi>Eſſaean,</hi> or the <hi>rigid Stoicke</hi>
+               </l>
+               <l>To amorous <hi>Leanders,</hi> and them move</l>
+               <l>Through Seas of teares, to ſwim to her they love.</l>
+               <l>This <hi>Swanne</hi> of ours, that impure <hi>Zoylus</hi> blots</l>
+               <l>With ſcandalls foule: But as the <hi>Ermines</hi> ſpotts</l>
+               <l>Adde price and eſtimation to his Furre,</l>
+               <l>Soe the reproofes of this invective curre</l>
+               <l>Give light, and luſtre unto <hi>Draytons</hi> worth,</l>
+               <l>And with advantage ſet his merit forth:</l>
+               <l>
+                  <hi>Drayton,</hi> who doth, in ſuch magnificke ſort</l>
+               <l>Delineate Valour in his <hi>Agincourte,</hi>
+               </l>
+               <l>That this illuſtr'ous poëme, doth inſpire</l>
+               <l>Even courages of ice, with warlike fire.</l>
+               <l>His <hi>Tragicke Legends</hi> are with ſorce endu'd,</l>
+               <l>To ſoften Scythyans, and Tartars rude,</l>
+               <l>Yea with pathetick Fancies to enchant</l>
+               <l>Obdurate mindes: and hearts of Adamant,</l>
+               <l>His vertue's ſo ſublime, that even as ſoon,</l>
+               <l>The <hi>Savage Negro's</hi> darts may peirce the Moone,</l>
+               <l>As the invectives of this froward <hi>Spye,</hi>
+               </l>
+               <l>A drachme of worth, take from his merit high.</l>
+               <pb n="37" facs="tcp:123400:22"/>
+               <l>Thus ſpake <hi>Apollo:</hi> while old <hi>Drayton</hi> ſmil'd</l>
+               <l>To ſee him curb'd that had him thus revil'd.</l>
+            </lg>
+            <lg>
+               <l>Now when the <hi>Jurours</hi> had diſtinctly heard</l>
+               <l>Each Bill, that was againſt theſe men preferr'd,</l>
+               <l>They then commanded were for to recede,</l>
+               <l>Vntill they on their Verdicts had agreed,</l>
+               <l>Soe poſitive the teſtmonies were;</l>
+               <l>The evidence s'authentique, and ſoe cleare,</l>
+               <l>That they requir'd no man of lawes advice,</l>
+               <l>For to decide ſome points, or matters nice,</l>
+               <l>After ſome time in conſultation ſpent,</l>
+               <l>Their verdicts to the Court they did preſent,</l>
+               <l>
+                  <hi>George Withers</hi> for their Foreman they had choſe,</l>
+               <l>Who confident was, both in verſe and proſe;</l>
+               <l>He did not like a Cuſtard, quake and quiver,</l>
+               <l>When he his verdict came for to deliver:</l>
+               <l>And firſt, of him it was enquired, whether</l>
+               <l>They in their verdict had agreed together:</l>
+               <l>He anſwer'd yes: and then he was commanded</l>
+               <l>The priſoner to behold: then thy demanded</l>
+               <l>If that <hi>Britannicus</hi> to them apear'd</l>
+               <l>Or fit to be condemn'd, or to be clear'd:</l>
+               <l>The Foreman guilty cryes, then they enquire,</l>
+               <l>What he can for himſelfe ſpeake, or deſire,</l>
+               <pb n="38" facs="tcp:123400:23"/>
+               <l>VVhereby he might evade that ſentence juſt,</l>
+               <l>VVhich inſtantly proceed againſt him muſt.</l>
+               <l>He crav'd his book, but that was him deny'd;</l>
+               <l>It was his book (they ſaid) which him deſtroyd.</l>
+               <l>Nor was this Pris'ner onely guilty found,</l>
+               <l>For all his conſorts heard the ſelf-ſame ſound.</l>
+               <l>
+                  <hi>Apollo</hi> then after a conflict high,</l>
+               <l>Between his juſtice, and his clemency,</l>
+               <l>Not without ebullition of ſome teares,</l>
+               <l>Thus ſentence gave upon the Priſoners.</l>
+               <l>
+                  <hi>Britanicus</hi> condemn'd was to be led,</l>
+               <l>To that place where the <hi>Porcupines</hi> were fed,</l>
+               <l>VVhere to a poſt faſt bound, he muſt remaine,</l>
+               <l>Till with their quils, they had him ſhot and ſlaine.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Aulicus, pollo</hi> did condemne,</l>
+               <l>To be tranſported to the <hi>fatall Denne</hi>
+               </l>
+               <l>VVhich kept thoſe <hi>Vipers,</hi> from all parts collected,</l>
+               <l>Of which <hi>Parnaſſus Treacle</hi> was confected.</l>
+            </lg>
+            <lg>
+               <l>For when <hi>Apollo</hi> did long ſince deſcry,</l>
+               <l>That Fortune, and the VVorld did much envy</l>
+               <l>The learned crew, and them to <hi>Limbo</hi> ſent,</l>
+               <l>Oft through the poiſon of deep diſcontent</l>
+               <l>Hee through his skill in phyſick did deviſe</l>
+               <l>This Antidote againſt all maladies;</l>
+               <pb n="39" facs="tcp:123400:23"/>
+               <l>And for this end he did thoſe vipers cherriſh,</l>
+               <l>Among which now, poore <hi>Aulicus</hi> muſt periſh:</l>
+            </lg>
+            <lg>
+               <l>But the ſly <hi>Scout,</hi> a gentler cenſure found,</l>
+               <l>(<hi>Apollo</hi> with ſuch mildnes did abound)</l>
+               <l>For he was deſtin'd to this puniſhment;</l>
+               <l>He to the <hi>Vale of Hybla</hi> muſt be ſent,</l>
+               <l>There to protect the hives of <hi>Thrifty Bees,</hi>
+               </l>
+               <l>From the Invaſions and the Larcenies,</l>
+               <l>Of <hi>Waſpes</hi> and <hi>Hornets;</hi> butt' was ordered too</l>
+               <l>That he ſtarke naked, muſt this ſervice doe,</l>
+               <l>And he theſe <hi>Robbers</hi> only muſt aſſaile,</l>
+               <l>With the long feather of a Capons taile,</l>
+               <l>The wiſe <hi>Intelligencer</hi> then did heare</l>
+            </lg>
+            <lg>
+               <l>His ſentence, which ſeem'd ſomewhat too ſevere</l>
+               <l>For he condemn'd was to a <hi>Scullions place,</hi>
+               </l>
+               <l>Within the Kitchen of <hi>Appollos grace;</hi>
+               </l>
+               <l>Where he was forc'd his papers to expend,</l>
+               <l>Piggs, Pyes, and Geeſe, from burning to defend.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Civicus</hi> was ſentenc'd to be gone,</l>
+               <l>Both from <hi>Parnaſſus</hi> and from <hi>Helicon,</hi>
+               </l>
+               <l>And to the Fennes of <hi>Lerna</hi> was confin'd</l>
+               <l>Where a poore cottage was to him aſſign'd;</l>
+               <l>There he a ſory lively-hood muſt make,</l>
+               <l>By angling Froggs out of a ſtinking Lake.</l>
+               <pb n="40" facs="tcp:123400:24"/>
+               <l>The writer alſo of <hi>Diurnalls</hi> was</l>
+               <l>Condemned to a farre remoter place,</l>
+               <l>For he was baniſh'd to an uncouth land,</l>
+               <l>Where only <hi>Apes</hi> inhabit and command:</l>
+               <l>And there he was enjoyn'd to inſtruct theſe,</l>
+               <l>In Muſicke, and in divers languages;</l>
+               <l>Yet had he no more languages then tongues,</l>
+               <l>No other muſicke then the Cuckoos ſongs.</l>
+               <l>But he who did the <hi>Occurrances</hi> compile,</l>
+               <l>Was nor confin'd, nor forc'd to chang his ſoyle,</l>
+               <l>But by <hi>Apollo's</hi> merey ſentenc'd was,</l>
+               <l>To ſerve with paper all the <hi>Cloaca's,</hi>
+               </l>
+               <l>That did unto <hi>Parnaſsus</hi> appertaine,</l>
+               <l>And if hereafter any ſhould complaine,</l>
+               <l>He wanted this for neceſſary uſe,</l>
+               <l>Then without bayle and mainepriſe, or excuſe,</l>
+               <l>He muſt be carr'd to that priſon ſad,</l>
+               <l>
+                  <hi>Bocardo</hi> call'd, whence no releaſments had.</l>
+            </lg>
+            <lg>
+               <l>The writer of the <hi>True Accounts</hi> then heares</l>
+               <l>His grevious cenſure, with unwilling eares:</l>
+               <l>He was condem'd unto the <hi>Stygian Galley,</hi>
+               </l>
+               <l>Where he was forc'd upon a wooden talley</l>
+               <l>To keep a true account of all thoſe Ghoſts</l>
+               <l>That daily ferry'd to the further Coaſts:</l>
+               <pb n="41" facs="tcp:123400:24"/>
+               <l>And of his hire, each night receive hee muſt</l>
+               <l>Three fillips on the noſe, with a browne cruſt,</l>
+               <l>Of mouldy bread: and hee for ſeven yeares ſpace</l>
+               <l>Was judg'd to bee a bond-ſlave in that place.</l>
+               <l>The <hi>Poſt</hi> receiv'd (as it to ſome may ſeeme)</l>
+            </lg>
+            <lg>
+               <l>A ſentence to way rigid, or extreme,</l>
+               <l>For hee was not exil'd, nor forc'd to change</l>
+               <l>His calling, for a place of baſenes ſtrange:</l>
+               <l>Nor was the gallant off-ſpring of his wit,</l>
+               <l>Condemned to the Oven, or to the Spitt.</l>
+               <l>It was decreed he ſhould be ſtill permitted</l>
+               <l>For to ride poſte, but muſt be ever fitted</l>
+               <l>With ſtumbling Jades of ſuch decrepite age,</l>
+               <l>That they would tire, in riding halfe a ſtage.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Appollo then,</hi> this judgement did expreſſe,</l>
+               <l>'Gainſt th' Author of the <hi>Perfect Paſsages;</hi>
+               </l>
+               <l>Hee was confin'd unto a <hi>gloomy Gave:</hi>
+               </l>
+               <l>Which nor to Sunne, nor Moone admiſſion gave</l>
+               <l>Here by the glow-wormes blaze, and glimmering light</l>
+               <l>Of rotten wood, he was inioyn'd to write</l>
+               <l>The Leaguers, Fights, Advances, and Retreats,</l>
+               <l>Aſſaults, Surpriſalls, and all martiall feates,</l>
+               <l>Which in that long, and bloody warre were ſhew'd</l>
+               <l>Wherein ſly <hi>Weaſills, noyſome Ratts</hi> ſubdu'd</l>
+               <pb n="42" facs="tcp:123400:25"/>
+               <l>The <hi>Spye</hi> then hears his cenſure, which containes</l>
+               <l>A leſſer weight of infamy, then paines.</l>
+            </lg>
+            <lg>
+               <l>For whereas <hi>Phaebus</hi> had receiv'd of late</l>
+               <l>Petitions meeke, from the <hi>Pigmean State,</hi>
+               </l>
+               <l>Which ſhew'd how the ſtern <hi>Cranes</hi> with ireful teen</l>
+               <l>Oppreſt had theſe <hi>Epitomes of men,</hi>
+               </l>
+               <l>And with their ſtratagems, and warlike ſleights</l>
+               <l>Reduc'd that Nation to deplored ſtreights:</l>
+               <l>For they, arm'd with black bills, in combate fierce,</l>
+               <l>Had foil'd thoſe foote and halfe-foote Cavaliers:</l>
+               <l>And with their watchfull <hi>Camiſades</hi> likewiſe</l>
+               <l>Did them by night ſo frequently ſurpriſe,</l>
+               <l>That they were forc'd to crave <hi>Apoolos</hi> aide,</l>
+               <l>Approching death, and ruine to evade,</l>
+               <l>Who pitties their eſtate, and to comply</l>
+               <l>With their deſires, appoints the cunning <hi>Spye</hi>
+               </l>
+               <l>To poſt away to the <hi>Pigmaean Land,</hi>
+               </l>
+               <l>To be aſſiſtant with his helping hand;</l>
+               <l>And to diſcover with his peircing eyes,</l>
+               <l>The <hi>Cranes</hi> deepe plotts, and hidden ſubtilties:</l>
+               <l>
+                  <hi>Apollo</hi> likewiſe did injoine the <hi>Spye,</hi>
+               </l>
+               <l>To viſit <hi>Caucaſus</hi> as he paſs'd by,</l>
+               <l>
+                  <hi>Cloud-topping Caucoſus,</hi> where <hi>Eagles</hi> ſtrong</l>
+               <l>Their airyes have, the horrid Cliffes among:</l>
+               <pb n="43" facs="tcp:123400:25"/>
+               <l>With theſe fierce Birdes, him hee commands to treate,</l>
+               <l>About the levyes of ſome Forces great;</l>
+               <l>Againſt th' inſulting <hi>Cranes</hi> to bee imploy'd,</l>
+               <l>Which the <hi>Pigmaeans</hi> poore had ſo annoy'd.</l>
+            </lg>
+            <lg>
+               <l>In lieu of other puniſhment, the <hi>Spye</hi>
+               </l>
+               <l>Was bound to undertake this Embaſſye:</l>
+               <l>And did applaud <hi>Apollos</hi> mercy ſtrange,</l>
+               <l>That did his cenſure to an honour change.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Scottiſh Dove</hi> then heard this ſentence faire:</l>
+               <l>Hee to his native countrey muſt repaire,</l>
+               <l>And was on paine of death prohibited,</l>
+               <l>To croſſe the Seas, or to repaſſe the the <hi>Twede,</hi>
+               </l>
+               <l>But while his guilty fellows did envye</l>
+               <l>His eaſy Mulct, and gentle penaltye;</l>
+               <l>Hee cry'd his ſentence was ſevere, and hard,</l>
+               <l>And might with moſt of theirs, bee well compar'd,</l>
+               <l>For if they knew the Horne as well as hee,</l>
+               <l>They'd rather dye, then there impriſon'd bee.</l>
+            </lg>
+            <lg>
+               <l>When judgement was on all the Pris'ners paſt,</l>
+               <l>
+                  <hi>Appollo</hi> to diſſolve the Court did haſt;</l>
+               <l>But <hi>Aulicus</hi> in moſt ſubmiſsive wiſe,</l>
+               <l>For Mitigation of his cenſure cryes:</l>
+               <pb n="44" facs="tcp:123400:26"/>
+               <l>So did <hi>Britanicus. Phaebus</hi> relents,</l>
+               <l>And takes the edge off from their puniſhments,</l>
+               <l>They were repriv'd. Then all the Court commen<g ref="char:EOLhyphen"/>ded</l>
+               <l>
+                  <hi>Appollo's</hi> mercy: Thus th' <hi>Aſſizes</hi> ended.</l>
+            </lg>
+         </div>
+         <div type="order_to_print">
+            <p>Printed and Publiſhed according to Order.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123400:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
